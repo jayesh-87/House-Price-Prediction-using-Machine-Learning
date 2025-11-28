@@ -77,5 +77,5 @@ Add user input interface for predictions
 Use real-world dataset (with more features, e.g. location, amenities, etc.)
 
 ## License
-Add license information here (e.g. MIT, GPL, etc.) — or if none, state explicitly.
+N/A
 
